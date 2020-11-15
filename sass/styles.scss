@@ -240,7 +240,7 @@ Navigation
 }
 .navicon {
   position: absolute;
-  height: 26px;
+  //height: 26px;
   right: 10px;
   top: 48px;
   visibility: hidden;
@@ -278,7 +278,7 @@ Hero
     margin-bottom: 80px;
   }
   .hero-content {
-    padding-top: 40%;
+    padding-top: 30%;
   }
   .hero-content img {
     width: 55%;
@@ -318,7 +318,7 @@ header {
     display: inline-block;
   }
   .logo img {
-    height: 20px;
+    height: 55px;
     //width: 50px;
   }
   ul.primary-nav {
@@ -337,7 +337,7 @@ header {
         }
       }
       &:last-child a {
-        padding-right: 0px;
+        padding-right: 30px;
       }
     }
   }
